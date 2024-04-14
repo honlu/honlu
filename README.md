@@ -1,10 +1,10 @@
-### Hi there 👋 I am Honlu
+### Hi there 👋 I am Andelu
 
 ### Profession
 Golang Backend Developer
 
 ### About Me
-- I'm Honlu, a passionate engineer working as a Golang backend developer in an internet company. 
+- A passionate engineer working as a Golang backend developer in an internet company. 
 - I have a strong interest in programming and internet technologies.
 - I enjoy continuously learning and exploring new areas of technology.
 - I have studied Golang and Python and have applied them in various projects.
