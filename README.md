@@ -11,8 +11,6 @@ Golang Backend Developer
 
 #### Technology Stack
 - Programming Languages: Golang, Python
-- Frameworks: No specific preference, I choose frameworks based on project requirements.
-- Tools: Common development tools and version control systems.
 
 #### Statistics
 [![GitHub](https://github-readme-stats.vercel.app/api?username=honlu)](https://github.com/honlu)
