@@ -13,4 +13,6 @@ Golang Backend Developer
 - Programming Languages: Golang, Python
 
 #### Statistics
-[![GitHub](https://github-readme-stats.vercel.app/api?username=honlu)](https://github.com/honlu)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=honlu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=honlu&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=honlu&layout=compact&theme=radical)
