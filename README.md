@@ -15,4 +15,3 @@ Golang Backend Developer
 
 #### Statistics
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=honlu&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=honlu&theme=radical)
